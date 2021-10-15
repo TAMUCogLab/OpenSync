@@ -1,0 +1,21 @@
+﻿  AmplifierSDK.cpp
+  main.cpp
+C:\Users\yamauchiadmin\Desktop\LIVEAMP\include\RawDataHandlerExample.h(85,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\yamauchiadmin\Desktop\LIVEAMP\main.cpp(223,103): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\yamauchiadmin\Desktop\LIVEAMP\main.cpp(376,6): warning C4101: 'nRes': unreferenced local variable
+  Generating Code...
+  LiveAmp-LSL.vcxproj -> C:\Users\yamauchiadmin\Desktop\LIVEAMP\x64\Debug\LiveAmp-LSL.exe
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\ActiChamp.bit
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\actiCHampLib.dll
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\ActiChampX.bit
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\ActiChamp_x64.dll
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\AmplifierSDK.dll
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\AmplifierSDK.lib
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\LiveAmpLib2.dll
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\LiveAmpLib2.lib
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\lsl.dll
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\lsl.exp
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\lsl.ilk
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\lsl.lib
+  C:\Users\yamauchiadmin\Desktop\LIVEAMP\.\lib\lsl.pdb
+  13 File(s) copied
