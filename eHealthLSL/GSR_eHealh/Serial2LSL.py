@@ -1,7 +1,7 @@
 import serial
 from pylsl import StreamInfo, StreamOutlet
 
-ser = serial.Serial('COM4', 115200)
+ser = serial.Serial(sys.argv[1], 115200)
 
 C=""
 R=""
