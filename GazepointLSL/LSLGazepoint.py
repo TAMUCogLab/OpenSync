@@ -120,7 +120,7 @@ if __name__ == "__main__":
         # Read data
         msg = receive(s)
 
-        # Data looks like: '<REC TIME="199.98715" FPOGX="0.26676" FPOGY="0.99285" FPOGS="199.84114" FPOGD="0.14601" FPOGID="352" FPOGV="1"/>\r\n'
+        # Data looks like: '<FPOGX="0.26676" FPOGY="0.99285" FPOGS="199.84114" FPOGD="0.14601" FPOGID="352" FPOGV="1"/>\r\n'
 
         # Parse data string to extract values
 
