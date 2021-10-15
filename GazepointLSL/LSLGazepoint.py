@@ -109,7 +109,6 @@ if __name__ == "__main__":
     # Continuously stream data and push each data sample to the LSL
     while True:
         # Reset data values to 0
-        rec_time = 0
         rec_fpogx = 0
         rec_fpogy = 0
         rec_fpogs = 0
