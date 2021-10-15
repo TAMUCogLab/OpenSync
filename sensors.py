@@ -49,3 +49,9 @@ class EyeTracking:
             subprocess.Popen(['python.exe',OpenSync.OpenSync_path() + "\\GazepointLSL\\LSLGazepointBiometrics.py"])
         else:
             subprocess.Popen(['python.exe',OpenSync.OpenSync_path() + "\\GazepointLSL\\LSLGazepoint.py"])
+            
+class GSR:
+    def __init__(self):
+        pass
+    def eHealth(self, port = "COM3"):
+        subprocess.Popen(['python.exe',OpenSync.OpenSync_path() + "\\eHealthLSL\\GSR_eHealh\\Serial2LSL.py"])
