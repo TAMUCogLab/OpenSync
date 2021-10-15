@@ -1,0 +1,2 @@
+D:\BCI\Unicorn-LSL\UnicornLSL\x64\Debug\UnicornLSL.exe
+D:\BCI\Unicorn-LSL\UnicornLSL\x64\Debug\UnicornLSL.pdb
