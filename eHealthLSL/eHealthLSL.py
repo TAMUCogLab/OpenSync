@@ -1,3 +1,5 @@
+#### IMPORTANT: YOU NEED TO DEPLOY THE GSR_SerialSend.ino SCRIPT ON THE ARDUINO ####
+
 import serial
 from pylsl import StreamInfo, StreamOutlet
 import sys
