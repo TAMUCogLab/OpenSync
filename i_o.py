@@ -50,7 +50,6 @@ class Mouse:
         self.outlet_mouse_type.push_chunk([mouse_click_stream])
 
     def stream_click(self, mouse_obj):
-        self.mouse_click_type(mouse_obj)
         self.outlet_mouse_click.push_chunk(mouse_obj.clicked_name)
 
     def stream_pos(self, mouse_obj):
