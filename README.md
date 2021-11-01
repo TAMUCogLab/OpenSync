@@ -3,7 +3,7 @@
 
 This repository contains files for OpenSync, an open-source package that integrates many different measures: EEG, EDA, eyetracking and more. 
 
-See more detailed description here: https://github.tamu.edu/CognitionLab/OpenSync/wiki
+See more detailed description here: https://github.com/moeinrazavi/OpenSync/wiki
 
 Demos can be found here: 
 
