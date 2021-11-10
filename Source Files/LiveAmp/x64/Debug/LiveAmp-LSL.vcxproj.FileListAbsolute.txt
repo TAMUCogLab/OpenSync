@@ -1,0 +1,2 @@
+C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\x64\Debug\LiveAmp-LSL.exe
+C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\x64\Debug\LiveAmp-LSL.pdb

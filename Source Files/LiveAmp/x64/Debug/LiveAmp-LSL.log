@@ -1,0 +1,19 @@
+﻿  main.cpp
+C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\include\RawDataHandlerExample.h(84,39): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\main.cpp(238,103): warning C4267: 'argument': conversion from 'size_t' to 'int32_t', possible loss of data
+C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\main.cpp(380,6): warning C4101: 'nRes': unreferenced local variable
+  LiveAmp-LSL.vcxproj -> C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\x64\Debug\LiveAmp-LSL.exe
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\ActiChamp.bit
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\actiCHampLib.dll
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\ActiChampX.bit
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\ActiChamp_x64.dll
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\AmplifierSDK.dll
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\AmplifierSDK.lib
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\LiveAmpLib2.dll
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\LiveAmpLib2.lib
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\lsl.dll
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\lsl.exp
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\lsl.ilk
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\lsl.lib
+  C:\Users\Moein\Downloads\LiveAmp-LSL-master\LiveAmpLSL\.\lib\lsl.pdb
+  13 File(s) copied
