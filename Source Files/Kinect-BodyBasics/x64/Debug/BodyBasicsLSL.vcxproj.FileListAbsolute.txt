@@ -1,0 +1,2 @@
+C:\Users\Moein\Desktop\KinectBodyBasics-LSL - Copy\BodyBasicsLSL\x64\Debug\BodyBasicsLSL.exe
+C:\Users\Moein\Desktop\KinectBodyBasics-LSL - Copy\BodyBasicsLSL\x64\Debug\BodyBasicsLSL.pdb
